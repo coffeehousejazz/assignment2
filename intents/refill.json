@@ -1,0 +1,64 @@
+{
+  "id": "7b659a83-7924-44c1-ba00-d55ba06e5bcf",
+  "parentId": "6befd5ce-5363-44e6-b4ee-e6fa5966c591",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "refill",
+  "auto": true,
+  "contexts": [
+    "knows_side_sauce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom.knows_side_sauce-custom",
+      "affectedContexts": [
+        {
+          "name": "knows_side_sauce-custom-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "refill-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d9ba348c-1421-41a2-85dc-64329340f524",
+          "name": "drinks",
+          "required": false,
+          "dataType": "@drinks",
+          "value": "$drinks",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure thing, I\u0027ll get you another $drinks",
+            "I\u0027ll get you a refill right away."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

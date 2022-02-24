@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ba97914b-3bff-49e7-af5d-61b8a42d76ca",
+    "data": [
+      {
+        "text": "can i get some ",
+        "userDefined": false
+      },
+      {
+        "text": "champagne",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4afa6e29-730c-4b29-866a-7b6c7a6c29ef",
+    "data": [
+      {
+        "text": "can i get some more ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d166fe0d-e48c-46fe-99ef-8ccf913bd0dd",
+    "data": [
+      {
+        "text": "another ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bcadf2c-7223-4212-8114-ad41507a9319",
+    "data": [
+      {
+        "text": "can i have another glass of ",
+        "userDefined": false
+      },
+      {
+        "text": "wine",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b698b79c-f794-4b36-9af4-72c6c7f93574",
+    "data": [
+      {
+        "text": "im out of ",
+        "userDefined": false
+      },
+      {
+        "text": "soda",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76baf6b2-42bd-4dfd-b05b-023705029266",
+    "data": [
+      {
+        "text": "can i get a refill please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

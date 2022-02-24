@@ -1,0 +1,59 @@
+{
+  "id": "b6ee5b1b-d1f8-4450-85d8-944a509800c7",
+  "parentId": "38e80b36-0608-4a9b-a9dd-128041f8f3ce",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "knows_starters",
+  "auto": true,
+  "contexts": [
+    "knows_what_to_drink-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom",
+      "affectedContexts": [
+        {
+          "name": "knows_starters-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4289223d-f790-4933-b716-869e229149c9",
+          "name": "starters",
+          "required": false,
+          "dataType": "@starters",
+          "value": "$starters",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay I will get that ready for you. Here are your appetizers. What would you like as an entree?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

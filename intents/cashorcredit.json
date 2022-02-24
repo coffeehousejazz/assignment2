@@ -1,0 +1,44 @@
+{
+  "id": "f94d9650-e33d-4327-bde5-b40defe73f27",
+  "parentId": "27a4832a-d5e8-435e-b304-a31c9dcfdff5",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "cashorcredit",
+  "auto": true,
+  "contexts": [
+    "the_bill-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom.knows_side_sauce-custom-2.the_bill-custom",
+      "affectedContexts": [
+        {
+          "name": "cashorcredit-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Fantastic. Would you like a copy of your receipt?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

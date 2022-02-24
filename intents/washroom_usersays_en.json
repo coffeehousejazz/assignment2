@@ -1,0 +1,132 @@
+[
+  {
+    "id": "a71050a0-3e10-4547-85fa-fa35729677fb",
+    "data": [
+      {
+        "text": "Do you have a bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "feced578-f0a0-46f8-8b62-e30f8ff5894c",
+    "data": [
+      {
+        "text": "can i use the washroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8884d9e4-ef4f-4d9c-aca7-ab4ed4b4f979",
+    "data": [
+      {
+        "text": "wheres a sink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de71df14-2f0c-4357-a366-9ccdbde9f0da",
+    "data": [
+      {
+        "text": "where is the washroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e924f65-9e43-4acd-a3a5-f7f72a97bb9c",
+    "data": [
+      {
+        "text": "sink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "378fe538-8a31-4193-abb8-d503d46d770c",
+    "data": [
+      {
+        "text": "toilet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f608b40d-4e76-4d75-a7d6-3ed1934b6425",
+    "data": [
+      {
+        "text": "restroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01f24e7e-eca2-46a1-b9d5-59d504cd059c",
+    "data": [
+      {
+        "text": "washroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "749abf5a-a1b0-41c8-819c-b425f519f7e3",
+    "data": [
+      {
+        "text": "bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52cb5013-0795-4abf-9c1b-7e6ee02b682f",
+    "data": [
+      {
+        "text": "the bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

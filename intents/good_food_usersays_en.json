@@ -1,0 +1,80 @@
+[
+  {
+    "id": "38462e86-dfb4-4e01-8c78-b9e814903673",
+    "data": [
+      {
+        "text": "very tasty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0da69844-3f7d-4034-8b8e-b13f89336e9a",
+    "data": [
+      {
+        "text": "i enjoyed my meal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c964c364-9c08-48cb-a3b0-0c3b44e9981a",
+    "data": [
+      {
+        "text": "compliments to the chef",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b8fa4b7-afd3-4fa4-aab4-d4a57473c57a",
+    "data": [
+      {
+        "text": "fantastic meal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85a7ac4a-9abf-427b-a3a5-a1c471269d69",
+    "data": [
+      {
+        "text": "the food was delicious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9df9f4c6-e572-4ac0-99d0-03a04d68943a",
+    "data": [
+      {
+        "text": "food was great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

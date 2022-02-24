@@ -1,0 +1,39 @@
+{
+  "id": "b9d2b8cf-39f9-4e35-8ae4-5767ee7817c7",
+  "parentId": "38e80b36-0608-4a9b-a9dd-128041f8f3ce",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "list_starters",
+  "auto": true,
+  "contexts": [
+    "knows_what_to_drink-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We have garlic bread, wings, hummus plate, caesar salad, and baked potatoes."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

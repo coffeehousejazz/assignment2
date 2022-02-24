@@ -1,0 +1,9 @@
+{
+  "id": "bf4027aa-960f-4edf-92fa-6093d026abc4",
+  "name": "sauce",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

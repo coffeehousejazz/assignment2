@@ -1,0 +1,39 @@
+{
+  "id": "ecc4c62c-9958-41ab-825d-e342fc30b314",
+  "parentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "chatbot_opt_out",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh no, I will be waiting here when you need me!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

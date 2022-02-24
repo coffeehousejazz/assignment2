@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4c257d7c-ceea-4d81-ba1a-cff005ccd550",
+    "data": [
+      {
+        "text": "what are the appetizers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d223401-a278-46ad-bb03-522e0804e93e",
+    "data": [
+      {
+        "text": "what are the starters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b78afb24-6ebd-4f70-bb4a-aaeca1ecae3e",
+    "data": [
+      {
+        "text": "what do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "994a19c0-870d-4bb4-939d-8832dedf0285",
+    "data": [
+      {
+        "text": "whats here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fe5d0af-4e62-41ec-80e5-ed167ba6cb4d",
+    "data": [
+      {
+        "text": "whats good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcc109df-f357-4ca0-9219-c8810c6bddd2",
+    "data": [
+      {
+        "text": "options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

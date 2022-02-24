@@ -1,0 +1,41 @@
+[
+  {
+    "id": "5df54170-0f4b-49f3-ba66-6f2b5e99ffea",
+    "data": [
+      {
+        "text": "the bill please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d7eb88b-2160-4600-9b07-dc861d6780a9",
+    "data": [
+      {
+        "text": "can i get the cheque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1d1f981-edce-4f6e-82df-ab7d40814220",
+    "data": [
+      {
+        "text": "can i get the check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

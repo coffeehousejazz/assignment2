@@ -1,0 +1,59 @@
+{
+  "id": "6befd5ce-5363-44e6-b4ee-e6fa5966c591",
+  "parentId": "6b286f1d-f9ce-4b1a-9680-87e3c2df6dc1",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "knows_side_sauce",
+  "auto": true,
+  "contexts": [
+    "knows_entrees-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom",
+      "affectedContexts": [
+        {
+          "name": "knows_side_sauce-followup",
+          "lifespan": 30
+        }
+      ],
+      "parameters": [
+        {
+          "id": "96875afc-6f1a-4ea4-bf34-593898c376e0",
+          "name": "sauces",
+          "required": false,
+          "dataType": "@sauces",
+          "value": "$sauces",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, I will get those out for you guys in a few. In the meantime, you can let us know if you need anything else!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

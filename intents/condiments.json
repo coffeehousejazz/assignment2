@@ -1,0 +1,69 @@
+{
+  "id": "f2e2e53f-a478-4c08-aee1-1ca35494115f",
+  "parentId": "6befd5ce-5363-44e6-b4ee-e6fa5966c591",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "condiments",
+  "auto": true,
+  "contexts": [
+    "knows_side_sauce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom.knows_side_sauce-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f445b724-1728-471e-a8cc-54a9cf556296",
+          "name": "sauce",
+          "required": false,
+          "dataType": "@sauce",
+          "value": "$sauce",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6e216bd1-e98f-4f75-b378-58e97ed0efb1",
+          "name": "seasoning",
+          "required": false,
+          "dataType": "@seasoning",
+          "value": "$seasoning",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Right away! ill be back with your $seasoning",
+            "Right away! ill be back with your $sauce"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "value": "caesar salad",
+    "synonyms": [
+      "caesar salad",
+      "salad",
+      "caesar"
+    ]
+  },
+  {
+    "value": "wings",
+    "synonyms": [
+      "wings",
+      "chicken wings"
+    ]
+  },
+  {
+    "value": "garlic bread",
+    "synonyms": [
+      "garlic bread",
+      "bread"
+    ]
+  },
+  {
+    "value": "baked potato",
+    "synonyms": [
+      "baked potato",
+      "potato",
+      "potatoes"
+    ]
+  },
+  {
+    "value": "hummus plate",
+    "synonyms": [
+      "hummus plate",
+      "hummus"
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "9f43741b-61fd-4a21-ba81-b3b7b546ffa4",
+    "data": [
+      {
+        "text": "bottle of ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a52292e1-25c0-49a2-b4ce-431377023b83",
+    "data": [
+      {
+        "text": "beer",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "751ff1cb-cd62-437e-911d-bdd9cea8af5d",
+    "data": [
+      {
+        "text": "glass of ",
+        "userDefined": false
+      },
+      {
+        "text": "wine",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a863cfde-3c91-4023-83a0-409d6182e07e",
+    "data": [
+      {
+        "text": "glass of ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "414bd568-b941-423f-b3c5-bb0691c35966",
+    "data": [
+      {
+        "text": "water",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "166ba733-290b-49b6-9888-e25c4242ebb7",
+    "data": [
+      {
+        "text": "wine",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47ec678a-f7f2-4426-92d7-bca414e96866",
+    "data": [
+      {
+        "text": "just ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      },
+      {
+        "text": " is fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbe695bd-7107-4fb0-b32a-7e2b9b0be769",
+    "data": [
+      {
+        "text": "wine",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      },
+      {
+        "text": " would be nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "854bddf1-5ef1-4556-9b43-cbeaaf24de48",
+    "data": [
+      {
+        "text": "id like a ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a39e8705-8893-42b7-9a37-4095b7978c93",
+    "data": [
+      {
+        "text": "i would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "soda",
+        "meta": "@drinks",
+        "alias": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

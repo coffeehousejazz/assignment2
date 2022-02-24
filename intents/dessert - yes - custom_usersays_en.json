@@ -1,0 +1,186 @@
+[
+  {
+    "id": "4fab14cc-bdad-4625-ae6a-cc03beeffe29",
+    "data": [
+      {
+        "text": "fudge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e60e3952-575f-408d-8fa3-29835d6f6fdb",
+    "data": [
+      {
+        "text": "brownie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1b4d7b2-d85a-4373-a209-c7e02b50b8ad",
+    "data": [
+      {
+        "text": "cream",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e19426a-a18f-459a-8cbb-fc9ca83c9788",
+    "data": [
+      {
+        "text": "cake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebe474de-cb99-43d3-9f9c-faf64fc95fd3",
+    "data": [
+      {
+        "text": "a scoop of ice cream please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d9cea08-2468-4556-b5c3-ebab85098133",
+    "data": [
+      {
+        "text": "ill have the brownie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68586774-57a2-48ef-86c2-167bf232aad1",
+    "data": [
+      {
+        "text": "ill have the cheesecake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aed67c26-4f51-4666-ad97-cb1e3590a54d",
+    "data": [
+      {
+        "text": "cheesecake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7399a07f-eff4-47ce-bb2f-392b0f9fa7d4",
+    "data": [
+      {
+        "text": "cheese cake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19a8b893-6617-44a8-9258-cecb90570ff1",
+    "data": [
+      {
+        "text": "i want the brownie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b391c23-e783-4409-a23d-2c78b4d766a6",
+    "data": [
+      {
+        "text": "ill have the ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ce83466-0b56-496c-b0c7-ab367d6fead8",
+    "data": [
+      {
+        "text": "vanilla ice cream please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8213f31d-55a3-418a-834c-6e0ef4ed9db1",
+    "data": [
+      {
+        "text": "ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dafd1db-9bf0-4b76-801f-19f1924b61ac",
+    "data": [
+      {
+        "text": "icecream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

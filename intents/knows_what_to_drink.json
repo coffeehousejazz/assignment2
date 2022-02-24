@@ -1,0 +1,59 @@
+{
+  "id": "38e80b36-0608-4a9b-a9dd-128041f8f3ce",
+  "parentId": "00b1012d-a9c8-4a80-8f5d-e4d9b9aa70d0",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "knows_what_to_drink",
+  "auto": true,
+  "contexts": [
+    "number_of_people-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom",
+      "affectedContexts": [
+        {
+          "name": "knows_what_to_drink-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "26101b97-c9cf-413f-9be7-b418f488418a",
+          "name": "drinks",
+          "required": false,
+          "dataType": "@drinks",
+          "value": "$drinks",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, I will get some $drinks for you guys. Here are your $drinks. What would you like for your starter?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

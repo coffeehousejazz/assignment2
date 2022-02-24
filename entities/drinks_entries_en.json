@@ -1,0 +1,32 @@
+[
+  {
+    "value": "soda",
+    "synonyms": [
+      "soda"
+    ]
+  },
+  {
+    "value": "wine",
+    "synonyms": [
+      "wine"
+    ]
+  },
+  {
+    "value": "water",
+    "synonyms": [
+      "water"
+    ]
+  },
+  {
+    "value": "beer",
+    "synonyms": [
+      "beer"
+    ]
+  },
+  {
+    "value": "champagne",
+    "synonyms": [
+      "champagne"
+    ]
+  }
+]

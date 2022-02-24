@@ -1,0 +1,9 @@
+{
+  "id": "80522ae0-2a3b-486f-ad75-4c98aca95516",
+  "name": "seasoning",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

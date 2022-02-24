@@ -1,0 +1,9 @@
+{
+  "id": "59ad778c-3399-4fe1-bc05-d2ed745b4656",
+  "name": "starters",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,44 @@
+{
+  "id": "d62cd058-d821-473c-8cc5-8201005652bf",
+  "parentId": "aa98ddfc-9aa4-4cef-beb4-e19a8682f7eb",
+  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "name": "dessert - yes",
+  "auto": true,
+  "contexts": [
+    "dessert-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom.knows_side_sauce-custom.dessert-yes",
+      "affectedContexts": [
+        {
+          "name": "dessert-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We are offering a simple vanilla ice cream, an in house baked cheesecake and a serving size fudge brownie."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

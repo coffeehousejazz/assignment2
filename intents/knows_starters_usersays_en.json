@@ -1,0 +1,128 @@
+[
+  {
+    "id": "72006f65-d0c6-4382-972e-6fabc73b02cd",
+    "data": [
+      {
+        "text": "id like a ",
+        "userDefined": false
+      },
+      {
+        "text": "caesar salad",
+        "meta": "@starters",
+        "alias": "starters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46fc3069-a8ab-48e7-aa7a-302ef323962f",
+    "data": [
+      {
+        "text": "id like a ",
+        "userDefined": false
+      },
+      {
+        "text": "baked potato",
+        "meta": "@starters",
+        "alias": "starters",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4d2bfc2-02fc-4871-99bf-21fff690c3a3",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "hummus",
+        "meta": "@starters",
+        "alias": "starters",
+        "userDefined": false
+      },
+      {
+        "text": " plate please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "135b32b4-4155-4cc2-ac05-3c8e1d870eff",
+    "data": [
+      {
+        "text": "how about some ",
+        "userDefined": false
+      },
+      {
+        "text": "hummus",
+        "meta": "@starters",
+        "alias": "starters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4797042-bf4d-4c9e-8432-69e6f13d8bee",
+    "data": [
+      {
+        "text": "id like some ",
+        "userDefined": false
+      },
+      {
+        "text": "garlic bread",
+        "meta": "@starters",
+        "alias": "starters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4439c98-dd1d-434b-a9bc-869077f4fd6f",
+    "data": [
+      {
+        "text": "id like ",
+        "userDefined": false
+      },
+      {
+        "text": "wings",
+        "meta": "@starters",
+        "alias": "starters",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

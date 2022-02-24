@@ -1,0 +1,105 @@
+[
+  {
+    "id": "87f85477-900d-425f-b1ec-f71ee6c799ee",
+    "data": [
+      {
+        "text": "ill have a ",
+        "userDefined": false
+      },
+      {
+        "text": "poke bowl",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ff44f13-d3fb-4b11-a6e0-7cfdf55ce6e2",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "tandoori chicken",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea630743-3e72-41b2-853e-851ed355e578",
+    "data": [
+      {
+        "text": "ill try the ",
+        "userDefined": false
+      },
+      {
+        "text": "tomato gnocchi",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afc316ca-455d-4b04-8518-57e36881e15b",
+    "data": [
+      {
+        "text": "ill have the ",
+        "userDefined": false
+      },
+      {
+        "text": "house salad",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e60545f-c094-4548-9e00-f3e73813cc46",
+    "data": [
+      {
+        "text": "id like the ",
+        "userDefined": false
+      },
+      {
+        "text": "steak",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

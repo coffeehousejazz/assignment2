@@ -1,0 +1,9 @@
+{
+  "id": "eda64677-d4e4-4152-9bf5-ad9d000c87e6",
+  "name": "entrees",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

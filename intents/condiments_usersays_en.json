@@ -1,0 +1,272 @@
+[
+  {
+    "id": "eeb937a5-cbae-4f58-9fbb-12ac8dcecc15",
+    "data": [
+      {
+        "text": "ketchup",
+        "meta": "@sauce",
+        "alias": "sauce",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acf93fe0-d254-46b5-981f-2e85ce56a534",
+    "data": [
+      {
+        "text": "just ",
+        "userDefined": false
+      },
+      {
+        "text": "salt",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af64aac4-6c79-4b96-b011-5fc98cc1a4f5",
+    "data": [
+      {
+        "text": "pepper",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e265c777-2ecd-4b54-9968-e07f4295c21e",
+    "data": [
+      {
+        "text": "can i have some ",
+        "userDefined": false
+      },
+      {
+        "text": "pepper",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a28b9a4-8ede-46f7-a8d1-62861cd02e39",
+    "data": [
+      {
+        "text": "salt",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ead12f43-6650-42d2-a771-39d945ed28f4",
+    "data": [
+      {
+        "text": "can i get some ",
+        "userDefined": false
+      },
+      {
+        "text": "salt and pepper",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d48ff691-13e1-43d9-8942-c486cf863d8e",
+    "data": [
+      {
+        "text": "salt and pepper",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deb2ec10-5b91-4061-83c5-92906ef45cd7",
+    "data": [
+      {
+        "text": "id like ",
+        "userDefined": false
+      },
+      {
+        "text": "salt",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b6deff1-adb0-400e-b737-4452ad68e962",
+    "data": [
+      {
+        "text": "id like some ",
+        "userDefined": false
+      },
+      {
+        "text": "pepper",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cecafa27-65b5-4b0f-b869-e048d292b50e",
+    "data": [
+      {
+        "text": "can i have some ",
+        "userDefined": false
+      },
+      {
+        "text": "salt",
+        "meta": "@seasoning",
+        "alias": "seasoning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3681586d-a708-4be0-a376-ed92acc1d310",
+    "data": [
+      {
+        "text": "do you have any ",
+        "userDefined": false
+      },
+      {
+        "text": "ketchup",
+        "meta": "@sauce",
+        "alias": "sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7636f7c-2457-4b86-a0eb-ede52a13c88b",
+    "data": [
+      {
+        "text": "can i have some ",
+        "userDefined": false
+      },
+      {
+        "text": "mayo",
+        "meta": "@sauce",
+        "alias": "sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edf213dd-9b31-417e-8b41-8a7a2626e09b",
+    "data": [
+      {
+        "text": "mustard",
+        "meta": "@sauce",
+        "alias": "sauce",
+        "userDefined": false
+      },
+      {
+        "text": " on the side please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b6e3e56-36fb-4dd7-aed5-c2550e50fd15",
+    "data": [
+      {
+        "text": "can i get some ",
+        "userDefined": false
+      },
+      {
+        "text": "ketchup",
+        "meta": "@sauce",
+        "alias": "sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
