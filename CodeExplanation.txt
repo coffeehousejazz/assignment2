@@ -1,5 +1,9 @@
 Explanation of our ChatBot Code:
 
+We used the Google DialogFlow API, programming in javascript. We programmed on the web and shared our code in livetime via Google Drive.
+
 The Intents folder stores sample user input that the Chatbot is able to recognize. Here, we made many options that the chatbot will recognize and pair with answers for the user.
 
-The Entities folder stores keywords that the Chatbot is able to recognize. Here, the Chatbot will see specific word and will be able to respond, and even use that word back to the user. This allows for us to sort the user input's by categories, which helps us recognize input even better.
+The Entities folder stores keywords that the Chatbot is able to recognize. Here, the Chatbot will see specific word and will be able to respond, and even use that word back to the user. This allows for us to sort the user's inputs by categories, which helps the ChatBot recognize input even better. We can match food, drinks, sauces, and many other types of questions by sorting keywords into categories.
+
+The customSmallTalk file gives us some random inputs and output in case the user wants to have small talk with the ChatBot. This can handle simple small talk like asking how their day is going, what their name is, etc.
