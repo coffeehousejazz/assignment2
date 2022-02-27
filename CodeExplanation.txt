@@ -1,0 +1,5 @@
+Explanation of our ChatBot Code:
+
+The Intents folder stores sample user input that the Chatbot is able to recognize. Here, we made many options that the chatbot will recognize and pair with answers for the user.
+
+The Entities folder stores keywords that the Chatbot is able to recognize. Here, the Chatbot will see specific word and will be able to respond, and even use that word back to the user. This allows for us to sort the user input's by categories, which helps us recognize input even better.
