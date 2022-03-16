@@ -304,8 +304,7 @@ body {
 .social .social_icon img {
 	width: 80%;
 }
-.container .secondary_header {
-}
+
 }
 
 @media (min-width: 321px) and (max-width: 768px) {
@@ -455,5 +454,13 @@ body {
 	cursor: pointer;
 	opacity: 0.5;
 }
-#menu {
-}
+.df-messenger {
+	--df-messenger-bot-message: #878fac;
+	--df-messenger-button-titlebar-color: #52bad5;
+	--df-messenger-chat-background-color: #fafafa;
+	--df-messenger-font-color: white;
+	--df-messenger-send-icon: #878fac;
+	--df-messenger-user-message: #52bad5;
+	--df-messenger-minimized-chat-close-icon-color:	#52bad5; 
+   }
+ 
