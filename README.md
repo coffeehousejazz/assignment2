@@ -51,3 +51,23 @@ We used the Automatic Spell Correction from Google to detect incorrect spelling.
 ## 📘 More responses
 
 We added more responses to our ChatBot to handle various tasks. Our chatbot now responds to extraneous inputs with a variety of responses such as “Sorry, I don’t understand, could you repeat that?” and “what do you mean?” Another type of response that we added was to respond to small talk. The user is able to ask the chatbot questions like, “How are you?” and “You’re so sweet.”
+
+Example for Extraneous:
+
+Example for Small Talk:
+
+## 📙 Toolkits
+
+## 📗 Unit Testing
+
+## 📕 Features that could be extracted with others as API
+
+* The use of entities to easily and accurately detect user inputs
+* The use of a Second Language Toolkit to adapt to French speaking users
+* The use of Botium Unit Testing to test conversations
+* Voice-to-speech ability
+* Use of Machine Learning for spelling from Google DialogFlow
+
+## 📘 GitHub Graphs
+
+* **Level 0 DFD**
