@@ -71,3 +71,5 @@ Example for Small Talk:
 ## 📘 GitHub Graphs
 
 * **Level 0 DFD**
+
+![](https://github.com/COSC310-Team-23/assignment2/blob/main/assets/DFD_Level_0.jpg)
