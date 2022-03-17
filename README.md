@@ -1,5 +1,5 @@
 
-[![Social banner for Chatbot agent](https://www.comm100.com/wp-content/uploads/images/blog-banner-ai-powered-chatbot-1.png)](https://github.com/COSC310-Team-23/assignment2.git)
+[![Social banner for Chatbot agent](https://github.com/COSC310-Team-23/assignment2/blob/main/assets/banner.png)](https://github.com/COSC310-Team-23/assignment2.git)
 
 # **COSC 310 - Assignment 3** <img src="https://media3.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif?cid=ecf05e4704yigthbkvnneq2y40zp98jkeohqhlc8vuqhhpgk&rid=giphy.gif&ct=g" width="45px">
 
@@ -73,3 +73,20 @@ Example for Small Talk:
 * **Level 0 DFD**
 
 ![](https://github.com/COSC310-Team-23/assignment2/blob/main/assets/DFD_Level_0.jpg)
+
+This diagram explains the data flow between the 0 level components of our bot. The data received from the user is delivered to the Chatbot server, and
+the responses are received from the database, further the server provides the responses to the user.
+
+* **Level 1 DFD**
+
+![](https://github.com/COSC310-Team-23/assignment2/blob/main/assets/DFD_Level_1.jpg)
+
+Explanation here:
+
+## 📙 Sample Output Showing 30 Turns
+
+## 📗 Limitations of our ChatBot
+
+* The chatbot is only able to support single text inputs. The chatbot cannot handle more complex input like images, hyperlinks, or several sequential text inputs.
+
+* There are still some inputs that the chatbot could get confused by, for example inputting the same thing over and over again could make the bot lose its place in the conversation.
