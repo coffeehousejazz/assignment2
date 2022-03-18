@@ -95,3 +95,4 @@ The bot will know which action to use based on matching the input to a response 
 * The chatbot is only able to support single text inputs. The chatbot cannot handle more complex input like images, hyperlinks, or several sequential text inputs.
 
 * There are still some inputs that the chatbot could get confused by, for example inputting the same thing over and over again could make the bot lose its place in the conversation.
+ ... 
