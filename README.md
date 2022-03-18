@@ -11,9 +11,8 @@ This is the Assignment 3 for Group 23 in COSC 310. The assignment's purpose is t
 
 ## 📗 Our Chatbot is organized into Intents and Entities
 
-Intents are descriptors that allow the chatbot to determine how to respond to your prompt. Intents are made up of a few sample phrases that a user might say to the chatbot, and a response delegated for those sample phrases. Ex: if you wanted to pay the bill at a restaurant you might say, “Can I have the bill”, “Check please” or “We’re ready to leave”. A human might interpret all those things as the same but the chatbot needs to be taught to recognize that all of these phrases result in requiring the bill. Intents are the pointers that tell the chatbot where to carry the conversation based on inputs coming from the user.
-
-Entities are lists or categories of miscellaneous objects or categories that the chatbot might need to understand. These are also written into the chatbot so it can understand the specifics of what you might be asking for. The chatbot needs this data written into it because it might possibly have to refer back to it later. Ex: We may have a list of entities, called $drinks. In this list may be some options like water, soda, wine etc. When we reference drinks asking what drinks are available to the chatbot, it needs to be able to give us options in that category and will recite what is written in. Another use case is having the chatbot capable of repeating an entity back to you in conversation. Ex: “What would you like to drink?”, “I’ll have water” “Sure, $drinks coming up.” The chatbot here recognizes water, and in its response we can use the $drinks variable to reference the user's choice.
+Intents are descriptors that allow the chatbot to determine how to respond to your prompt. Intents are made up of a few sample phrases that a user might say to the chatbot, and a response delegated for those sample phrases. Ex: if you wanted to pay the bill at a restaurant you might say, “Can I have the bill”, “Check please”, or “We’re ready to leave”. A human might interpret all those things as the same but the chatbot needs to be taught to recognize that all of these phrases result in requiring the bill. Intents are the pointers that tell the chatbot where to carry the conversation based on inputs coming from the user.
+Entities are lists or categories of miscellaneous objects or categories that the chatbot might need to understand. These are also written into the chatbot so it can understand the specifics of what you might be asking for. The chatbot needs this data written into it because it might possibly have to refer back to it later. Ex: We may have a list of entities, called $drinks. In this list may be some options like water, soda, wine etc. When we reference drinks asking what drinks are available to the chatbot, it needs to be able to give us options in that category (parameter type)  and will recite what is written in. Another use case is having the chatbot capable of repeating an entity back to you in conversation. Ex: “What would you like to drink?” “I’ll have water” “Sure, $drinks coming up.” The chatbot here recognizes water as a value in entity @drink and returns the JSON object {“drinks” : “water”}, and in its response we can use the $drinks variable to reference the user's choice.
 
 ## 📕 Features
 
@@ -36,9 +35,7 @@ To use our chatbot without the HTML: You can also view it right on a web browser
 
 ## 📙 Extra Topic
 
-Our second topic is a Coffee Shop. Now, users can either order from the restaurant or order from the coffee shop. At the beginning of the Chatbot, we changed the welcome message to indicate that there is now a second topic. Users can also go to the other topic once finishing with one. For example, they can order from the coffee shop and after they finish their order, they can talk to the restaurant.
-
-Example for extra topic:
+Our second topic is a coffee shop. Now, users can either order from the restaurant or order from the coffee shop. At the beginning of the Chatbot, we changed the welcome message to indicate that there is now a second topic. Users can also go to the other topic once finishing with one. For example, they can order from the coffee shop and after they finish their order, they can talk to the restaurant.
 
 ## 📗 Voice-to-speech
 
@@ -50,25 +47,25 @@ We used the Automatic Spell Correction from Google to detect incorrect spelling.
 
 ## 📘 More responses
 
-We added more responses to our ChatBot to handle various tasks. Our chatbot now responds to extraneous inputs with a variety of responses such as “Sorry, I don’t understand, could you repeat that?” and “what do you mean?” Another type of response that we added was to respond to small talk. The user is able to ask the chatbot questions like, “How are you?” and “You’re so sweet.”
-
-Example for Extraneous:
-
-Example for Small Talk:
+We added more responses to our ChatBot to handle various tasks. Our chatbot now responds to extraneous inputs with a variety of responses such as “Sorry, I don’t understand, could you repeat that?” and “what do you mean?” There are 12 responses to handle extraneous input. Another type of response that we added was to respond to small talk. The user is able to ask the chatbot questions and input like, “Are you there?” and “You’re so clever.” The chatbot can handle a variety of small talk inputs, around 50.
 
 ## 📙 Toolkits
 
+The Google entity matching/listing toolkit allows us to create entities that make it easier for us to match responses and outputs. For example, if a user inputs ‘Hummus plate’ into our Chatbot when responding to a question, the starters entity type would be matched and the chatbot is not able to extract this value as the JSON value {“starter”: “Hummus plate”}, which we can use as an output. The Google synonym match toolkit allows for us to match inputs with other similar inputs. For example, if the user inputs S when asked what size drink they want, the chatbot will know that S means size small. There is also ‘fuzzy matching’ enabled, which allows for the chatbot to approximately match each word in case the user misspells a word. The French Language toolkit allows for us to accommodate users who speak French, which is the other official language of Canada. We are able to toggle between languages currently in our API environment.
+
 ## 📗 Unit Testing
+
+We used Botium Box for our automated unit testing. We attached our chatbot to a Google Cloud server and created a service account in Google Cloud to connect our chatbot to Botium Box via a JSON connection file. This was important because as we update our chatbot, it will update in real time in Botium and we can test the new conversation or edits that we make for more efficient automated testing. Then, we created three test cases for our chatbot to test the different flows of conversation, or regression testing. The results are in the form of graphs, XML, and CSV. Information such as the time for each test to run and the success of each test was recorded.
+https://www.botium.ai 
+https://github.com/codeforequity-at/botium-core.git
 
 ## 📕 Features that could be extracted with others as API
 
-* The use of entities to easily and accurately detect user inputs
+* The use of entities to easily and accurately detect user inputs for reuse
 * The use of a Second Language Toolkit to adapt to French speaking users
 * The use of Botium Unit Testing to test conversations
 * Voice-to-speech ability
 * Use of Machine Learning for spelling from Google DialogFlow
-
-## 📘 GitHub Graphs
 
 * **Level 0 DFD**
 
@@ -81,9 +78,10 @@ the responses are received from the database, further the server provides the re
 
 ![](https://github.com/COSC310-Team-23/assignment2/blob/main/assets/DFD_Level_1.jpg)
 
-Explanation here:
-
-## 📙 Sample Output Showing 30 Turns
+This diagram explains the data flow between the Level 1 components of our bot.
+The chatbot is event driven, in that as the user inputs data, the chatbot will constantly access the 
+database and respond to each input with an action through the API service we used, Google Dialogflow.
+The bot will know which action to use based on matching the input to a response each time. 
 
 ## 📗 Limitations of our ChatBot
 
