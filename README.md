@@ -54,6 +54,16 @@ We added more responses to our ChatBot to handle various tasks. Our chatbot now 
 
 The Google entity matching/listing toolkit allows us to create entities that make it easier for us to match responses and outputs. For example, if a user inputs ‘Hummus plate’ into our Chatbot when responding to a question, the starters entity type would be matched and the chatbot is not able to extract this value as the JSON value {“starter”: “Hummus plate”}, which we can use as an output. The Google synonym match toolkit allows for us to match inputs with other similar inputs. For example, if the user inputs S when asked what size drink they want, the chatbot will know that S means size small. There is also ‘fuzzy matching’ enabled, which allows for the chatbot to approximately match each word in case the user misspells a word. The French Language toolkit allows for us to accommodate users who speak French, which is the other official language of Canada. We are able to toggle between languages currently in our API environment.
 
+## 📕 New API Integration - Individual Assignment
+
+The chatbot is now integrated with three different APIs. 
+
+The Twitter API >>>>>>
+
+The PayPal API >>>>>>>
+
+The Google Calendar API >>>>>>>>>
+
 ## 📗 Unit Testing
      
 We used Botium Box for our automated unit testing. We attached our chatbot to a Google Cloud server and created a service account in Google Cloud to connect our chatbot to Botium Box via a JSON connection file. This was important because as we update our chatbot, it will update in real time in Botium and we can test the new conversation or edits that we make for more efficient automated testing. Then, we created three test cases for our chatbot to test the different flows of conversation, or regression testing. The tests are created within the Botium Box engine, written using BotiumScript, the language used for writing test cases in Botium.
@@ -90,7 +100,7 @@ The chatbot is event driven, in that as the user inputs data, the chatbot will c
 database and respond to each input with an action through the API service we used, Google Dialogflow.
 The bot will know which action to use based on matching the input to a response each time. 
 
-## 📗 Limitations of our ChatBot
+## 📗 Limitations of the ChatBot
 
 * The chatbot is only able to support single text inputs. The chatbot cannot handle more complex input like images, hyperlinks, or several sequential text inputs.
 
