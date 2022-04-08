@@ -3,6 +3,21 @@
 
 # **COSC 310 - Assignment 3** <img src="https://media3.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif?cid=ecf05e4704yigthbkvnneq2y40zp98jkeohqhlc8vuqhhpgk&rid=giphy.gif&ct=g" width="45px">
 
+## 📕 New API Integration - Individual Assignment
+
+The chatbot is now integrated with three new APIs. 
+
+The Twitter API
+
+
+The PayPal API
+Used the PayPal Sandbox API to host a purchasing option on local HTML and JS files. 
+PayPal Documentation: https://developer.paypal.com/sdk/js/reference/
+Sandbox coding resource: https://codesandbox.io
+
+The Google Calendar API. 
+Similar to the Twitter API
+
 ## 🔗 Link to our Github
 
 <https://github.com/COSC310-Team-23/assignment2.git>
@@ -53,20 +68,6 @@ We added more responses to our ChatBot to handle various tasks. Our chatbot now 
 ## 📙 Toolkits
 
 The Google entity matching/listing toolkit allows us to create entities that make it easier for us to match responses and outputs. For example, if a user inputs ‘Hummus plate’ into our Chatbot when responding to a question, the starters entity type would be matched and the chatbot is not able to extract this value as the JSON value {“starter”: “Hummus plate”}, which we can use as an output. The Google synonym match toolkit allows for us to match inputs with other similar inputs. For example, if the user inputs S when asked what size drink they want, the chatbot will know that S means size small. There is also ‘fuzzy matching’ enabled, which allows for the chatbot to approximately match each word in case the user misspells a word. The French Language toolkit allows for us to accommodate users who speak French, which is the other official language of Canada. We are able to toggle between languages currently in our API environment.
-
-## 📕 New API Integration - Individual Assignment
-
-The chatbot is now integrated with three new APIs. 
-
-The Twitter API
-
-
-The PayPal API
-Used the PayPal Sandbox API to host a purchasing option on local HTML and JS files. 
-PayPal Documentation: https://developer.paypal.com/sdk/js/reference/
-
-The Google Calendar API. 
-Similar to the Twitter API
 
 ## 📗 Unit Testing
      
