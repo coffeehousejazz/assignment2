@@ -56,13 +56,17 @@ The Google entity matching/listing toolkit allows us to create entities that mak
 
 ## 📕 New API Integration - Individual Assignment
 
-The chatbot is now integrated with three different APIs. 
+The chatbot is now integrated with three new APIs. 
 
-The Twitter API >>>>>>
+The Twitter API
 
-The PayPal API >>>>>>>
 
-The Google Calendar API >>>>>>>>>
+The PayPal API
+Used the PayPal Sandbox API to host a purchasing option on local HTML and JS files. 
+PayPal Documentation: https://developer.paypal.com/sdk/js/reference/
+
+The Google Calendar API. 
+Similar to the Twitter API
 
 ## 📗 Unit Testing
      
