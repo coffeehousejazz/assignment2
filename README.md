@@ -1,7 +1,9 @@
 
 [![Social banner for Chatbot agent](https://github.com/COSC310-Team-23/assignment2/blob/main/assets/banner.png)](https://github.com/COSC310-Team-23/assignment2.git)
 
-# **COSC 310 - Assignment 3** <img src="https://media3.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif?cid=ecf05e4704yigthbkvnneq2y40zp98jkeohqhlc8vuqhhpgk&rid=giphy.gif&ct=g" width="45px">
+# **COSC 310 - Personal Assignment 4** <img src="https://media3.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif?cid=ecf05e4704yigthbkvnneq2y40zp98jkeohqhlc8vuqhhpgk&rid=giphy.gif&ct=g" width="45px">
+
+This is the Personal Assignment for Jasmine for COSC 341. The assignment's purpose is to create a simple chat agent. Our agent is a restaurant server that simulates ordering food at a restaurant.
 
 ## 📕 New API Integration - Individual Assignment - Jasmine
 
@@ -28,13 +30,7 @@ The chatbot is now integrated with six new APIs.
 * Similar to the Twitter API. Uses the pipedream to create a workflow that triggeres the chatbot based on Google Calendar, using the Google Calendar API. When the user makes an event called 'dinner' for a certain time, the chatbot is triggered to start the conversation at the time of the 'dinner' event. So, if someone were to make an event in their calendar for 'dinner' at 5pm, the chatbot will be triggered at 5pm and it will begin a conversation about ordering food. The Google Calendar API connects to the chatbot via Nodejs code and an authorization service key that I generated as a JSON file within google Cloud.
 * Google Calendar API Documentation: https://developers.google.com/calendar/api
 
-## 🔗 Link to our Github
-
-<https://github.com/COSC310-Team-23/assignment2.git>
-
-This is the Assignment 3 for Group 23 in COSC 310. The assignment's purpose is to create a simple chat agent. Our agent is a restaurant server that simulates ordering food at a restaurant.
-
-## 📗 Our Chatbot is organized into Intents and Entities
+## 📗 The Chatbot is organized into Intents and Entities
  
 Intents are descriptors that allow the chatbot to determine how to respond to your prompt. Intents are made up of a few sample phrases that a user might say to the chatbot, and a response delegated for those sample phrases. Ex: if you wanted to pay the bill at a restaurant you might say, “Can I have the bill”, “Check please”, or “We’re ready to leave”. A human might interpret all those things as the same but the chatbot needs to be taught to recognize that all of these phrases result in requiring the bill. Intents are the pointers that tell the chatbot where to carry the conversation based on inputs coming from the user.
 
