@@ -6,6 +6,7 @@
 ## 📕 New API Integration - Individual Assignment - Jasmine
 
 The chatbot is now integrated with six new APIs. 
+* The code for each API can be found in the branches of this project. This project is forked from the assignment 2 repository, to make it my own individual project.
 
 -Google Maps/Google Places/Google Directions
 * Using these three Google APIs to create a directional navigation system integrated into the GUI to help users navigate to the restuarant that is 'hosting' the chatbot. These APIs work together to create a thorough navigation system. If the user asks how to get to the restaurant, the chatbot will direct the user to the bottom of the page where the system is located.
