@@ -3,20 +3,28 @@
 
 # **COSC 310 - Assignment 3** <img src="https://media3.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif?cid=ecf05e4704yigthbkvnneq2y40zp98jkeohqhlc8vuqhhpgk&rid=giphy.gif&ct=g" width="45px">
 
-## 📕 New API Integration - Individual Assignment
+## 📕 New API Integration - Individual Assignment - Jasmine
 
-The chatbot is now integrated with three new APIs. 
+The chatbot is now integrated with six new APIs. 
 
-The Twitter API
+-Google Maps/Google Places/Google Directions
+Using these three Google APIs to create a directional navigation system integrated into the GUI to help users navigate to the restuarant that is 'hosting' the chatbot. These APIs work together to create a thorough navigation system. If the user asks how to get to the restaurant, the chatbot will direct the user to the bottom of the page where the system is located.
+Google Maps/Places/Directions API Documentation: https://developers.google.com/maps/documentation
 
-
-The PayPal API
+-The PayPal API
 Used the PayPal Sandbox API to host a purchasing option on local HTML and JS files. 
 PayPal Documentation: https://developer.paypal.com/sdk/js/reference/
 Sandbox coding resource: https://codesandbox.io
+I used codesandbox to host my html on the web.
+When ordering a coffee, users now have the option to pay via paypal online.
 
-The Google Calendar API. 
-Similar to the Twitter API
+-The Twitter API
+Uses the pipedream to create a workflow that triggers the chatbot based on Tweets, using the Twitter API. When someone tweets 'hello,' the chatbot is triggered to start talking. This workflow is triggered by sorting the top tweets that occur every 12 hours. The Google Calendar API connects to the chatbot via Nodejs code and an authorization service key that I generated as a JSON file within google Cloud.
+Twitter API Documentation: https://developer.twitter.com/en/docs/twitter-api
+
+-The Google Calendar API. 
+Similar to the Twitter API. Uses the pipedream to create a workflow that triggeres the chatbot based on Google Calendar, using the Google Calendar API. When the user makes an event called 'dinner' for a certain time, the chatbot is triggered to start the conversation at the time of the 'dinner' event. So, if someone were to make an event in their calendar for 'dinner' at 5pm, the chatbot will be triggered at 5pm and it will begin a conversation about ordering food. The Google Calendar API connects to the chatbot via Nodejs code and an authorization service key that I generated as a JSON file within google Cloud.
+Google Calendar API Documentation: https://developers.google.com/calendar/api
 
 ## 🔗 Link to our Github
 
